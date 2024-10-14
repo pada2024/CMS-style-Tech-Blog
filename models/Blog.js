@@ -12,10 +12,7 @@ Blog.init(
       primaryKey: true,
       autoIncrement: true,
     },
-    author: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
+
     title: {
       type: DataTypes.STRING,
       allowNull: false,
