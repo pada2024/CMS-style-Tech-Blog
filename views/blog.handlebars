@@ -8,8 +8,17 @@
     needed
   </p>
   <p>
-<textarea id="w3review" name="w3review" rows="4" cols="50">
+    <textarea id="comment-body" name="comment-body" rows="4" cols="50">
 </textarea>
     <button class="btn btn-primary">Leave a comment</button>
   </p>
 </div>
+{{#each comments as |comment| }}
+<div class="row mb-4 blog">
+  <div class="col-md-5">
+    A comment should go here
+  </div>
+</div>
+{{/each}}
+
+<script src="/js/comment.js"></script>
