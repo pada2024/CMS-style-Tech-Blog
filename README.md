@@ -44,3 +44,7 @@ This is a blog that can be used by developers to make posts and allow for other 
 -abilityto allow other developers to comment on your post
 -Delete function that no longer workss after refactoring code for comments to post 
 
+## Problems
+
+This challenge was ver hard for me. It is hard seeking help and getting different perspectives and not understanding the concepts for building the thing in which you seeked help for. I could not get my comments to render on the profile page. While I attended office hours I still do not understand how to get that part to work. It was challenging trying to work on this and the project so I think I was just a bit more confused because of all of the different concepts I was trying to remember. I would like to understand how I can get that functionality to work in simplistic terms, if possible. I noticed when refactoring the comment code it made my delete function no longer work and I could not figure out why. I think I a suffering from systen overload and need easy to understand concepts provided.
+
